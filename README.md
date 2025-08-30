@@ -6,7 +6,9 @@ This repository contains the core components of the project focused on Automatic
 
 The Root folder contains the Fourth Test of the App and the requirements for it to run.
 Install the requirements with the code below while in the Root directory.
-      pip install -r requirements.txt 
+
+            pip install -r requirements.txt 
+
 This is a python use case so python is a requirement for the app.
 
 ##  Technologies Used
@@ -30,7 +32,7 @@ A live version of the project is available [here](https://datacleaning-auto.stre
 
 ##  Additional Notes
 
-This repository is intended to ease the work of data-cleaners. For full details, refer to the documentation.
-For any improvements feel free to fork the repo.
+      This repository is intended to ease the work of data-cleaners. For full details, refer to the documentation.
+      For any improvements feel free to fork the repo.
 ---
 
