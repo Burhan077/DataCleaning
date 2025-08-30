@@ -1,13 +1,11 @@
-# 📈 Data Science Project: LendingClub Loan Defaulters Prediction
+#Data Science Project: LendingClub Loan Defaulters Prediction
 
-This repository contains the core components of the project focused on predicting loan defaulters using historical lending data.
+This repository contains the core components of the project focused on Automatic Data Cleaning.
 
-## 📂 Repository Contents
+## Repository Contents
 
-- `LoanDefaultersFinal.ipynb` — Main analysis and modeling workflow
-- `docs/` — Project documentation outlining methodology, assumptions, and decisions
-- `slides/` — Presentation materials summarizing key findings
-- `deployed_app/` — Files or links related to the deployed solution
+The Root folder contains the Fourth Test of the App and the requirements for it to run
+This is a python use case so python is a requirement for the app.
 
 ## 🛠️ Technologies Used
 
