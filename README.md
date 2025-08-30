@@ -30,9 +30,9 @@ This is a python use case so python is a requirement for the app.
 
 A live version of the project is available [here](https://datacleaning-auto.streamlit.app/). 
 
-##  Additional Notes
+## Additional Notes
 
-      This repository is intended to ease the work of data-cleaners. For full details, refer to the documentation.
-      For any improvements feel free to fork the repo.
----
+This repository is intended to ease the work of data-cleaners. For full details, refer to the documentation.
+For any improvements feel free to fork the repo.
+
 
