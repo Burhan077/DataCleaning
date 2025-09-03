@@ -28,7 +28,7 @@ This is a python use case so python is a requirement for the app.
 
 ##  Deployment
 
-A live version of the project is available [here](https://datacleaning-auto.streamlit.app/). 
+A live version of the project is available [here](https://autodataclean.streamlit.app/). 
 
 ## Additional Notes
 
