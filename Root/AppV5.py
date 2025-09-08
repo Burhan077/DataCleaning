@@ -7,7 +7,7 @@ import io
 import os
 
 # Streamlit config
-st.set_page_config(page_title="Data Cleaning and EDA Tool", layout="wide")
+st.set_page_config(page_title="Data Cleaning Tool", layout="wide")
 st.title("Auto Data Cleaning & EDA Tool")
 st.write("Upload your dataset, and let the magic happen!")
 st.sidebar.header("Cleaning Steps in Progress...")
@@ -110,3 +110,4 @@ if uploaded_file is not None:
             file_name=cleaned_file_name,
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
+
