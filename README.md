@@ -3,7 +3,7 @@
 This repository contains the core components of the project focused on Automatic Data Cleaning.
 
 ## Repository Contents
-
+ 
 The Root folder contains the Fourth Test of the App and the requirements for it to run.
 Install the requirements with the code below while in the Root directory.
 
