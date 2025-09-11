@@ -8,7 +8,7 @@ The Root folder contains the Fourth Test of the App and the requirements for it 
 Install the requirements with the code below while in the Root directory. 
 
       pip install -r requirements.txt 
-
+ 
 This is a python use case so python is a requirement for the app.
 
 ##  Technologies Used
