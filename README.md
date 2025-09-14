@@ -1,4 +1,5 @@
-# DataCleaning. Automatic program that cleans data.
+# DataCleaning. 
+**Automatic program that cleans data.**
 
 This repository contains the core components of the project focused on Automatic Data Cleaning.
 
